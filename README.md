@@ -1,2 +1,2 @@
 # youtube-clone
-Spring Boot backend, Angular frontend
+Spring Boot backend for a YouTube clone
